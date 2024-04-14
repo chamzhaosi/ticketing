@@ -1,0 +1,1025 @@
+{
+    "stall" : {
+        "top" : {
+            "top_right" : {
+                "sttr_1_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "F1" : "blue",
+                    "E1" : "blue",
+                    "D1" : "blue",
+                    "C1" : "green",
+                    "B1" : "green",
+                    "x3" : "N/A"
+                },
+                "sttr_2_row" : {
+                    "H1" : "blue",
+                    "G1" : "blue",
+                    "F2" : "blue",
+                    "E2" : "blue",
+                    "D2" : "blue",
+                    "C2" : "green",
+                    "B2" : "green",
+                    "A1" : "green"
+                },
+                "sttr_3_row" : {
+                    "H2" : "blue",
+                    "G2" : "blue",
+                    "F3" : "blue",
+                    "E3" : "blue",
+                    "D3" : "blue",
+                    "C3" : "green",
+                    "B3" : "green",
+                    "A2" : "green"
+                },
+                "sttr_4_row" : {
+                    "H3" : "yellow",
+                    "G3" : "yellow",
+                    "F4" : "yellow",
+                    "E4" : "yellow",
+                    "D4" : "yellow",
+                    "C4" : "blue",
+                    "B4" : "blue",
+                    "A3" : "blue"
+                },
+                "sttr_5_row" : {
+                    "H4" :  "yellow",
+                    "G4" :  "yellow",
+                    "F5" :  "yellow",
+                    "E5" :  "yellow",
+                    "D5" :  "yellow",
+                    "C5" :  "blue",
+                    "B5" :  "blue",
+                    "A4" :  "blue"
+                },
+                "sttr_6_row" : {
+                    "H5" :  "yellow",
+                    "G5" :  "yellow",
+                    "F6" :  "yellow",
+                    "E6" :  "yellow",
+                    "D6" :  "yellow",
+                    "C6" :  "blue",
+                    "B6" :  "blue",
+                    "A5" :  "blue"
+                },
+                "sttr_7_row" : {
+                    "H6" :  "yellow",
+                    "G6" :  "yellow",
+                    "F7" :  "yellow",
+                    "E7" :  "yellow",
+                    "D7" :  "yellow",
+                    "C7" :  "blue",
+                    "B7" :  "blue",
+                    "A6" :  "orange"
+                },
+                "sttr_8_row" : {
+                    "H7" : "yellow",
+                    "G7" : "yellow",
+                    "F8" : "yellow",
+                    "E8" : "yellow",
+                    "D8" : "yellow",
+                    "C8" : "blue",
+                    "B8" : "blue",
+                    "A7" : "orange"
+                },
+                "sttr_9_row" : {
+                    "H8" : "yellow",
+                    "G8" : "yellow",
+                    "F9" : "yellow",
+                    "E9" : "yellow",
+                    "D9" : "yellow",
+                    "C9" : "blue",
+                    "B9" : "blue",
+                    "A8" : "orange"
+                },
+                "sttr_10_row" : {
+                    "H9" : "yellow",
+                    "G9" : "yellow",
+                    "F10" :"yellow",
+                    "E10" :"yellow",
+                    "D10" :"yellow",
+                    "C10" :"blue",
+                    "B10" :"blue",
+                    "A9" : "orange"
+                }
+            },
+            "top_left": {
+                "sttl_1_row" : "N/A",
+                "sttl_2_row" : {
+                    "x4" : "N/A",
+                    "x5" : "N/A",
+                    "x6" : "N/A",
+                    "x7" : "N/A",
+                    "P1" : "blue",
+                    "N1" : "blue",
+                    "M1" : "blue",
+                    "L1" : "blue",
+                    "K1" : "blue",
+                    "J1" : "blue"
+                },
+                "sttl_3_row" : {
+                    "U1" : "yellow",
+                    "T1" : "yellow",
+                    "S1" : "yellow",
+                    "R1" : "yellow",
+                    "P2" : "blue",
+                    "N2" : "blue",
+                    "M2" : "blue",
+                    "L2" : "blue",
+                    "K2" : "blue",
+                    "J2" : "blue"
+                },
+                "sttl_4_row" : {
+                    "U2" : "yellow",
+                    "T2" : "yellow",
+                    "S2" : "yellow",
+                    "R2" : "yellow",
+                    "P3" : "yellow",
+                    "N3" : "yellow",
+                    "M3" : "yellow",
+                    "L3" : "yellow",
+                    "K3" : "yellow",
+                    "J3" : "yellow"
+                },
+                "sttl_5_row" : {
+                    "U3" : "yellow",
+                    "T3" : "yellow",
+                    "S3" : "yellow",
+                    "R3" : "yellow",
+                    "P4" : "yellow",
+                    "N4" : "yellow",
+                    "M4" : "yellow",
+                    "L4" : "yellow",
+                    "K4" : "yellow",
+                    "J4" : "yellow"
+                },
+                "sttl_6_row" : {
+                    "U4" : "yellow",
+                    "T4" : "yellow",
+                    "S4" : "yellow",
+                    "R4" : "yellow",
+                    "P5" : "yellow",
+                    "N5" : "yellow",
+                    "M5" : "yellow",
+                    "L5" : "yellow",
+                    "K5" : "yellow",
+                    "J5" : "yellow"
+                },
+                "sttl_7_row" : {
+                    "U5" : "yellow",
+                    "T5" : "yellow",
+                    "S5" : "yellow",
+                    "R5" : "yellow",
+                    "P6" : "yellow",
+                    "N6" : "yellow",
+                    "M6" : "yellow",
+                    "L6" : "yellow",
+                    "K6" : "yellow",
+                    "J6" : "yellow"
+                },
+                "sttl_8_row" : {
+                    "U6" : "yellow",
+                    "T6" : "yellow",
+                    "S6" : "yellow",
+                    "R6" : "yellow",
+                    "P7" : "yellow",
+                    "N7" : "yellow",
+                    "M7" : "yellow",
+                    "L7" : "yellow",
+                    "K7" : "yellow",
+                    "J7" : "yellow"
+                },
+                "sttl_9_row" : {
+                    "U7" : "yellow",
+                    "T7" : "yellow",
+                    "S7" : "yellow",
+                    "R7" : "yellow",
+                    "P8" : "yellow",
+                    "N8" : "yellow",
+                    "M8" : "yellow",
+                    "L8" : "yellow",
+                    "K8" : "yellow",
+                    "J8" : "yellow"
+                },
+                "sttl_10_row" : {
+                    "U8" : "yellow",
+                    "T8" : "yellow",
+                    "S8" : "yellow",
+                    "R8" : "yellow",
+                    "P9" : "yellow",
+                    "N9" : "yellow",
+                    "M9" : "yellow",
+                    "L9" : "yellow",
+                    "K9" : "yellow",
+                    "J9" : "yellow"
+                }
+            }
+        }, 
+        "second" : {
+            "second_right" : {
+                "sssr_1_row" : "N/A",
+                "sssr_2_row" : {
+                    "H10" : "red",
+                    "G10" : "red",
+                    "F11" : "red",
+                    "E11" : "red",
+                    "D11" : "red",
+                    "C11" : "yellow",
+                    "B11" : "yellow",
+                    "A10" : "yellow"
+                },
+                "sssr_3_row" : {
+                    "H11" : "red",
+                    "G11" : "red",
+                    "F12" : "red",
+                    "E12" : "red",
+                    "D12" : "red",
+                    "C12" : "yellow",
+                    "B12" : "yellow",
+                    "A11" : "yellow"
+                },
+                "sssr_4_row" : {
+                    "H12" : "red",
+                    "G12" : "red",
+                    "F13" : "red",
+                    "E13" : "red",
+                    "D13" : "red",
+                    "C13" : "yellow",
+                    "B13" : "yellow",
+                    "A12" : "yellow"
+                },
+                "sssr_5_row" : {
+                    "H13" : "red",
+                    "G13" : "red",
+                    "F14" : "red",
+                    "E14" : "red",
+                    "D14" : "red",
+                    "C14" : "yellow",
+                    "B14" : "yellow",
+                    "A13" : "yellow"
+                },
+                "sssr_6_row" : {
+                    "H14" : "red",
+                    "G14" : "red",
+                    "F15" : "red",
+                    "E15" : "red",
+                    "D15" : "red",
+                    "C15" : "yellow",
+                    "B15" : "yellow",
+                    "A14" : "yellow"
+                },
+                "sssr_7_row" : {
+                    "H15" : "red",
+                    "G15" : "red",
+                    "F16" : "red",
+                    "E16" : "red",
+                    "D16" : "red",
+                    "C16" : "yellow",
+                    "B16" : "yellow",
+                    "A15" : "yellow"
+                },
+                "sssr_8_row" : {
+                    "H16" : "red",
+                    "G16" : "red",
+                    "F17" : "red",
+                    "E17" : "red",
+                    "D17" : "red",
+                    "C17" : "yellow",
+                    "B17" : "yellow",
+                    "A16" : "yellow"
+                },
+                "sssr_9_row" : {
+                    "H17" : "red",
+                    "G17" : "red",
+                    "F18" : "red",
+                    "E18" : "red",
+                    "D18" : "red",
+                    "C18" : "yellow",
+                    "B18" : "yellow",
+                    "A17" : "yellow"
+                },
+                "sssr_10_row" : {
+                    "H18" : "red",
+                    "G18" : "red",
+                    "F19" : "red",
+                    "E19" : "red",
+                    "D19" : "red",
+                    "C19" : "yellow",
+                    "B19" : "yellow",
+                    "A18" : "yellow"
+                },
+                "sssr_11_row" : {
+                    "H19" : "red",
+                    "G19" : "red",
+                    "F20" : "red",
+                    "E20" : "red",
+                    "D20" : "red",
+                    "C20" : "yellow",
+                    "B20" : "yellow",
+                    "A19" : "yellow"
+                },
+                "sssr_12_row" : {
+                    "H20" : "red",
+                    "G20" : "red",
+                    "F21" : "red",
+                    "E21" : "red",
+                    "D21" : "red",
+                    "C21" : "yellow",
+                    "B21" : "yellow",
+                    "A20" : "yellow"
+                },
+                "sssr_13_row" : {
+                    "H21" : "red",
+                    "G21" : "red",
+                    "F22" : "red",
+                    "E22" : "red",
+                    "D22" : "red",
+                    "x1" : "N/A",
+                    "B22" : "yellow",
+                    "x2" : "N/A"
+                },
+                "sssr_14_row" : {
+                    "x3" : "N/A",
+                    "G22" : "red",
+                    "x4" : "N/A",
+                    "x5" : "N/A",
+                    "x6" : "N/A",
+                    "x7" : "N/A",
+                    "x8" : "N/A",
+                    "x9" : "N/A"
+                }
+            },
+            "second_left" : {
+                "sssl_1_row" : {
+                    "x1" : "N/A",
+                    "T9" : "yellow",
+                    "S9" : "yellow",
+                    "R9" : "yellow",
+                    "P10" : "red",
+                    "N10" : "red",
+                    "M10" : "red",
+                    "L10" : "gray",
+                    "x2" : "N/A",
+                    "x3" : "N/A"
+                },
+                "sssl_2_row" : {
+                    "x1" : "N/A",
+                    "T10" : "yellow",
+                    "S10" : "yellow",
+                    "R10" : "yellow",
+                    "P11" : "red",
+                    "N11" : "red",
+                    "M11" : "red",
+                    "L11" : "gray",
+                    "K10" : "gray",
+                    "J10" : "gray"
+                },
+                "sssl_3_row" : {
+                    "x1" : "N/A",
+                    "T11" : "gray",
+                    "S11" : "yellow",
+                    "R11" : "yellow",
+                    "P12" : "red",
+                    "N12" : "red",
+                    "M12" : "red",
+                    "L12" : "gray",
+                    "K11" : "gray",
+                    "J11" : "gray"
+                },
+                "sssl_4_row" : {
+                    "x1" : "N/A",
+                    "T12" : "gray",
+                    "S12" : "gray",
+                    "R12" : "yellow",
+                    "P13" : "red",
+                    "N13" : "red",
+                    "M13" : "red",
+                    "L13" : "gray",
+                    "K12" : "gray",
+                    "J12" : "gray"
+                },
+                "sssl_5_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P14" : "red",
+                    "N14" : "red",
+                    "M14" : "red",
+                    "L14" : "gray",
+                    "K13" : "gray",
+                    "J13" : "gray"
+                },
+                "sssl_6_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P15" : "red",
+                    "N15" : "red",
+                    "M15" : "red",
+                    "L15" : "gray",
+                    "K14" : "gray",
+                    "J14" : "gray"
+                },
+                "sssl_7_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P16" : "red",
+                    "N16" : "red",
+                    "M16" : "red",
+                    "L16" : "gray",
+                    "K15" : "gray",
+                    "J15" : "gray"
+                },
+                "sssl_8_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P17" : "red",
+                    "N17" : "red",
+                    "M17" : "red",
+                    "L17" : "gray",
+                    "K16" : "gray",
+                    "J16" : "gray"
+                },
+                "sssl_9_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P18" : "red",
+                    "N18" : "red",
+                    "M18" : "red",
+                    "L18" : "gray",
+                    "K17" : "gray",
+                    "J17" : "gray"
+                },
+                "sssl_10_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P19" : "red",
+                    "N19" : "red",
+                    "M19" : "red",
+                    "L19" : "gray",
+                    "K18" : "gray",
+                    "J18" : "gray"
+                },
+                "sssl_11_row" : {
+                    "x1" : "N/A",
+                    "T13" : "gray",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "P20" : "red",
+                    "N20" : "red",
+                    "M20" : "red",
+                    "L20" : "gray",
+                    "K19" : "gray",
+                    "J19" : "gray"
+                },
+                "sssl_12_row" : {
+                    "x1" : "N/A",
+                    "T14" : "gray",
+                    "S13" : "gray",
+                    "R13" : "gray",
+                    "P21" : "red",
+                    "N21" : "red",
+                    "M21" : "red",
+                    "L21" : "gray",
+                    "K20" : "gray",
+                    "J20" : "gray"
+                },
+                "sssl_13_row" : {
+                    "x1" : "N/A",
+                    "T15" : "gray",
+                    "S14" : "gray",
+                    "R14" : "gray",
+                    "P22" : "red",
+                    "N22" : "red",
+                    "M22" : "red",
+                    "L22" : "gray",
+                    "K21" : "gray",
+                    "J21" : "gray"
+                },
+                "sssl_14_row" : {
+                    "x1" : "N/A",
+                    "T16" : "gray",
+                    "S15" : "gray",
+                    "R15" : "gray",
+                    "P23" : "red",
+                    "N23" : "red",
+                    "M23" : "red",
+                    "L23" : "gray",
+                    "K22" : "gray",
+                    "J22" : "gray"
+                }
+            }
+        },
+        "third": {
+            "third_right" : {
+                "stitr_1_row" : {
+                    "H22" : "yellow",
+                    "G23" : "yellow",
+                    "F23" :"yellow",
+                    "E23" :"yellow",
+                    "D23" :"yellow",
+                    "C22" :"blue",
+                    "B23" :"blue",
+                    "A21" : "orange"
+                },
+                "stitr_2_row" : {
+                    "H23" : "yellow",
+                    "G24" : "yellow",
+                    "F24" :"yellow",
+                    "E24" :"yellow",
+                    "D24" :"yellow",
+                    "C23" :"blue",
+                    "B24" :"blue",
+                    "A22" : "orange"
+                },
+                "stitr_3_row" : {
+                    "H24" : "yellow",
+                    "G25" : "yellow",
+                    "F25" :"yellow",
+                    "E25" :"yellow",
+                    "D25" :"yellow",
+                    "C24" :"blue",
+                    "B25" :"blue",
+                    "A23" : "orange"
+                },
+                "stitr_4_row" : {
+                    "H25" : "yellow",
+                    "G26" : "yellow",
+                    "F26" :"yellow",
+                    "E26" :"yellow",
+                    "D26" :"yellow",
+                    "C25" :"blue",
+                    "B26" :"blue",
+                    "A24" : "orange"
+                },
+                "stitr_5_row" : {
+                    "H26" : "yellow",
+                    "G27" : "yellow",
+                    "F27" :"yellow",
+                    "E27" :"yellow",
+                    "D27" :"yellow",
+                    "C26" :"blue",
+                    "B27" :"blue",
+                    "A25" : "blue"
+                },
+                "stitr_6_row" : {
+                    "H27" : "yellow",
+                    "G28" : "yellow",
+                    "F28" :"yellow",
+                    "E28" :"yellow",
+                    "D28" :"yellow",
+                    "C27" :"blue",
+                    "B28" :"blue",
+                    "A26" : "blue"
+                },
+                "stitr_7_row" : {
+                    "H28" : "yellow",
+                    "G29" : "yellow",
+                    "F29" :"yellow",
+                    "E29" :"yellow",
+                    "D29" :"yellow",
+                    "C28" :"blue",
+                    "B29" :"blue",
+                    "A27" : "blue"
+                },
+                "stitr_8_row" : {
+                    "H29" : "blue",
+                    "G30" : "blue",
+                    "F30" :"blue",
+                    "E30" :"blue",
+                    "D30" :"blue",
+                    "C29" :"green",
+                    "B30" :"green",
+                    "A28" : "green"
+                },
+                "stitr_9_row" : {
+                    "H30" : "blue",
+                    "G31" : "blue",
+                    "F31" :"blue",
+                    "E31" :"blue",
+                    "D31" :"blue",
+                    "C30" :"green",
+                    "B31" :"green",
+                    "x1" : "N/A"
+                },
+                "stitr_10_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "F32" :"blue",
+                    "E32" :"blue",
+                    "D32" :"blue",
+                    "C31" :"green",
+                    "B32" :"green",
+                    "x3" : "N/A"
+                }
+            },
+            "third_left" : {
+                "stitl_1_row" : {
+                    "x1" : "N/A",
+                    "T17" : "yellow",
+                    "S16" : "yellow",
+                    "R16" : "yellow",
+                    "P24" : "yellow",
+                    "N24" : "yellow",
+                    "M24" : "yellow",
+                    "L24" : "yellow",
+                    "K23" : "yellow",
+                    "J23" : "yellow"
+                },
+                "stitl_2_row" : {
+                    "x1" : "N/A",
+                    "T18" : "yellow",
+                    "S17" : "yellow",
+                    "R17" : "yellow",
+                    "P25" : "yellow",
+                    "N25" : "yellow",
+                    "M25" : "yellow",
+                    "L25" : "yellow",
+                    "K24" : "yellow",
+                    "J24" : "yellow"
+                },
+                "stitl_3_row" : {
+                    "x1" : "N/A",
+                    "T19" : "yellow",
+                    "S18" : "yellow",
+                    "R18" : "yellow",
+                    "P26" : "yellow",
+                    "N26" : "yellow",
+                    "M26" : "yellow",
+                    "L26" : "yellow",
+                    "K25" : "yellow",
+                    "J25" : "yellow"
+                },
+                "stitl_4_row" : {
+                    "x1" : "N/A",
+                    "T20" : "yellow",
+                    "S19" : "yellow",
+                    "R19" : "yellow",
+                    "P27" : "yellow",
+                    "N27" : "yellow",
+                    "M27" : "yellow",
+                    "L27" : "yellow",
+                    "K26" : "yellow",
+                    "J26" : "yellow"
+                },
+                "stitl_5_row" : {
+                    "x1" : "N/A",
+                    "T21" : "yellow",
+                    "S20" : "yellow",
+                    "R20" : "yellow",
+                    "P28" : "yellow",
+                    "N28" : "yellow",
+                    "M28" : "yellow",
+                    "L28" : "yellow",
+                    "K27" : "yellow",
+                    "J27" : "yellow"
+                },
+                "stitl_6_row" : {
+                    "x1" : "N/A",
+                    "T22" : "yellow",
+                    "S21" : "yellow",
+                    "R21" : "yellow",
+                    "P29" : "yellow",
+                    "N29" : "yellow",
+                    "M29" : "yellow",
+                    "L29" : "yellow",
+                    "K28" : "yellow",
+                    "J28" : "yellow"
+                },
+                "stitl_7_row" : {
+                    "x1" : "N/A",
+                    "T23" : "yellow",
+                    "S22" : "yellow",
+                    "R22" : "yellow",
+                    "P30" : "yellow",
+                    "N30" : "yellow",
+                    "M30" : "yellow",
+                    "L30" : "yellow",
+                    "K29" : "yellow",
+                    "J29" : "yellow"
+                },
+                "stitl_8_row" : {
+                    "x1" : "N/A",
+                    "T24" : "yellow",
+                    "S23" : "yellow",
+                    "R23" : "yellow",
+                    "P31" : "blue",
+                    "N31" : "blue",
+                    "M31" : "blue",
+                    "L31" : "blue",
+                    "K30" : "blue",
+                    "J30" : "blue"
+                },
+                "stitl_9_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "x4" : "N/A",
+                    "P32" : "blue",
+                    "N32" : "blue",
+                    "M32" : "blue",
+                    "L32" : "blue",
+                    "K31" : "blue",
+                    "J31" : "blue"
+                }
+            }
+        }
+    },
+    "circle" : {
+        "top" : {
+            "top_left" : {
+                "cttl_1_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "CC1" : "green",  
+                    "BB1" : "green",  
+                    "x4" : "N/A"
+                },
+                "cttl_2_row" : {
+                    "FF1" : "blue",
+                    "EE1" : "blue",
+                    "DD1" : "blue",
+                    "CC2" : "green",  
+                    "BB2" : "green",  
+                    "x4" : "N/A"
+                },
+                "cttl_3_row" : {
+                    "FF2" : "blue",
+                    "EE2" : "blue",
+                    "DD2" : "blue",
+                    "CC3" : "blue",  
+                    "BB3" : "blue",  
+                    "AA1" : "green"
+                },
+                "cttl_4_row" : {
+                    "FF3" : "blue",
+                    "EE3" : "blue",
+                    "DD3" : "blue",
+                    "CC4" : "blue",  
+                    "BB4" : "blue",  
+                    "AA2" : "green"
+                },
+                "cttl_5_row" : {
+                    "FF4" : "blue",
+                    "EE4" : "blue",
+                    "DD4" : "blue",
+                    "CC5" : "blue",  
+                    "BB5" : "blue",  
+                    "AA3" : "green"
+                },
+                "cttl_6_row" : {
+                    "FF5" : "blue",
+                    "EE5" : "blue",
+                    "DD5" : "blue",
+                    "CC6" : "blue",  
+                    "BB6" : "blue",  
+                    "AA4" : "green"
+                },
+                "cttl_7_row" : {
+                    "FF6" : "blue",
+                    "EE6" : "blue",
+                    "DD6" : "blue",
+                    "CC7" : "blue",  
+                    "BB7" : "blue",  
+                    "AA5" : "green"
+                },
+                "cttl_8_row" : {
+                    "FF7" : "blue",
+                    "EE7" : "blue",
+                    "DD7" : "blue",
+                    "CC8" : "blue",  
+                    "BB8" : "blue",  
+                    "AA6" : "green"
+                },
+                "cttl_9_row" : {
+                    "FF8" : "blue",
+                    "EE8" : "blue",
+                    "DD8" : "blue",
+                    "CC9" : "blue",  
+                    "BB9" : "blue",  
+                    "AA7" : "green"
+                },
+                "cttl_10_row" : {
+                    "FF9" : "blue",
+                    "EE9" : "blue",
+                    "DD9" : "blue",
+                    "CC10" : "blue",  
+                    "BB10" : "blue",  
+                    "AA8" : "green"
+                }
+
+            }
+        },
+        "second" : {
+            "second_left" :{
+                "cssl_1_row" : {
+                    "FF10" : "green",
+                    "EE10" : "green",
+                    "DD10" : "blue",
+                    "x1" : "N/A", 
+                    "x2" : "N/A", 
+                    "x3" : "N/A"
+                },
+                "cssl_2_row" : {
+                    "FF11" : "green",
+                    "EE11" : "green",
+                    "DD11" : "blue",
+                    "CC11" : "blue",  
+                    "BB11" : "blue",  
+                    "x1" : "N/A"
+                },
+                "cssl_3_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD12" : "blue",
+                    "CC12" : "blue",  
+                    "BB12" : "blue",  
+                    "AA9" : "green"
+                },
+                "cssl_4_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD13" : "blue",
+                    "CC13" : "blue",  
+                    "BB13" : "blue",  
+                    "AA10" : "green"
+                },
+                "cssl_5_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD14" : "blue",
+                    "CC14" : "blue",  
+                    "BB14" : "blue",  
+                    "AA11" : "green"
+                },
+                "cssl_6_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD15" : "blue",
+                    "CC15" : "blue",  
+                    "BB15" : "blue",  
+                    "AA12" : "green"
+                },
+                "cssl_7_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD16" : "blue",
+                    "CC16" : "blue",  
+                    "BB16" : "blue",  
+                    "AA13" : "green"
+                },
+                "cssl_8_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD17" : "blue",
+                    "CC17" : "blue",  
+                    "BB17" : "blue",  
+                    "AA14" : "green"
+                },
+                "cssl_9_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD18" : "blue",
+                    "CC18" : "blue",  
+                    "BB18" : "blue",  
+                    "AA15" : "green"
+                },
+                "cssl_10_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD19" : "blue",
+                    "CC19" : "blue",  
+                    "BB19" : "blue",  
+                    "AA16" : "green"
+                },
+                "cssl_11_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD20" : "blue",
+                    "CC20" : "blue",  
+                    "BB20" : "blue",  
+                    "AA17" : "green"
+                },
+                "cssl_12_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "DD21" : "blue",
+                    "CC21" : "blue",  
+                    "BB21" : "blue",  
+                    "AA18" : "green"
+                },
+                "cssl_13_row" : {
+                    "FF12" : "green",
+                    "EE12" : "green",
+                    "DD22" : "blue",
+                    "CC22" : "blue",  
+                    "BB22" : "blue",  
+                    "AA19" : "green"
+                },
+                "cssl_14_row" : {
+                    "FF13" : "green",
+                    "EE13" : "green",
+                    "DD23" : "blue",
+                    "CC23" : "blue",  
+                    "x1" : "N/A",  
+                    "x2" : "N/A"
+                }
+            }
+        },
+        "third" : {
+            "third_left" : {
+                "ctitl_1_row" : {
+                    "FF14" : "blue",
+                    "EE14" : "blue",
+                    "DD24" : "blue",
+                    "CC24" : "blue",  
+                    "BB23" : "blue",  
+                    "AA20" : "green"
+                },
+                "ctitl_2_row" : {
+                    "FF15" : "blue",
+                    "EE15" : "blue",
+                    "DD25" : "blue",
+                    "CC25" : "blue",  
+                    "BB24" : "blue",  
+                    "AA21" : "green"
+                },
+                "ctitl_3_row" : {
+                    "FF16" : "blue",
+                    "EE16" : "blue",
+                    "DD26" : "blue",
+                    "CC26" : "blue",  
+                    "BB25" : "blue",  
+                    "AA22" : "green"
+                },
+                "ctitl_4_row" : {
+                    "FF17" : "blue",
+                    "EE17" : "blue",
+                    "DD27" : "blue",
+                    "CC27" : "blue",  
+                    "BB26" : "blue",  
+                    "AA23" : "green"
+                },
+                "ctitl_5_row" : {
+                    "FF18" : "blue",
+                    "EE18" : "blue",
+                    "DD28" : "blue",
+                    "CC28" : "blue",  
+                    "BB27" : "blue",  
+                    "AA24" : "green"
+                },
+                "ctitl_6_row" : {
+                    "FF19" : "blue",
+                    "EE19" : "blue",
+                    "DD29" : "blue",
+                    "CC29" : "blue",  
+                    "BB28" : "blue",  
+                    "AA25" : "green"
+                },
+                "ctitl_7_row" : {
+                    "FF20" : "blue",
+                    "EE20" : "blue",
+                    "DD30" : "blue",
+                    "CC30" : "blue",  
+                    "BB29" : "blue",  
+                    "AA26" : "green"
+                },
+                "ctitl_8_row" : {
+                    "FF21" : "blue",
+                    "EE21" : "blue",
+                    "DD31" : "blue",
+                    "CC31" : "blue",  
+                    "BB30" : "blue",  
+                    "AA27" : "green"
+                },
+                "ctitl_9_row" : {
+                    "FF22" : "blue",
+                    "EE22" : "blue",
+                    "DD32" : "blue",
+                    "CC32" : "green",  
+                    "BB31" : "green",  
+                    "x1" : "N/A"
+                },
+                "ctitl_10_row" : {
+                    "x1" : "N/A",
+                    "x2" : "N/A",
+                    "x3" : "N/A",
+                    "CC33" : "green",  
+                    "BB32" : "green",  
+                    "x4" : "N/A"
+                }
+            }
+        }
+    }
+}

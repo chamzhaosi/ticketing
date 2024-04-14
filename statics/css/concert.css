@@ -1,0 +1,161 @@
+.w-seat{
+    width: 33px !important;
+    height: 30px !important;
+    font-size: 0.6em;
+    font-weight: 800;
+    text-align: center;
+    /* max-width: 32px !important;
+    height: 45px !important;
+    font-size: 0.9em;
+    box-sizing: border-box;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    padding: 4px !important;
+    font-weight: bold; */
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.section_title{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-weight: bold;
+}
+
+i{
+    /* transform: rotate(90deg); */
+}
+
+img#poster, video{
+    height: 500px;
+}
+
+.table{
+    --bs-table-bg: none !important; 
+    --bs-table-color: none !important; 
+    /* width: 0% !important; */
+}
+
+.bg-secondary-table{
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-secondary-rgb),var(--bs-bg-opacity))!important;
+    color: whitesmoke;
+}
+
+.red-table{
+    background-color: rgba(243, 3, 14,0.5);
+    font-weight: 500;
+}
+
+.orange-table{
+    background-color: rgba(243, 152, 1,0.5);
+    font-weight: 500;
+}
+
+.yellow-table{
+    background-color: rgba(247, 250, 11,0.5);
+    font-weight: 500;
+}
+
+.green-table{
+    background-color: rgba(28, 173, 80,0.5);
+    font-weight: 500;
+}
+
+.blue-table{
+    background-color: rgba(38, 167, 233,0.5);
+    font-weight: 500;
+}
+
+.gray-table{
+    background-color: rgba(185, 178, 185,0.5);
+    font-weight: 500;
+}
+
+.seat_bought{
+    animation: growSize 3s infinite;
+    border-color: whitesmoke !important;
+    border-style: solid !important;
+    border-width: 2px;
+    background-color: #ed4eeb !important;
+    opacity:1;
+}
+
+@keyframes growSize {
+    0% {
+        transform: scale(1); /* Start at original size */
+    }
+    50% {
+        transform: scale(1.2); /* Grow to 1.5 times the original size */
+    }
+    100% {
+        transform: scale(1); /* Return to original size */
+    }
+}
+
+.blue{
+    background-color: #26a7e9;
+}
+
+.yellow{
+    background-color: #f7fa0b;
+}
+
+.gray{
+    background-color: #b9b2b9;
+}
+
+.red{
+    background-color: #f3030e;
+}
+
+.orange{
+    background-color: #f39801;
+}
+
+.green{
+    background-color: #1cad50;
+}
+
+#cancelModal .modal-header {
+    background-color: #dc3545;
+    color: white;
+}
+
+#cancelModal .modal-footer .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+#confirmModal .modal-header {
+    background-color: #fcc838;
+    /* color: white; */
+}
+
+#confirmModal .modal-footer .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.loader {
+    border: 5px solid #f3f3f3; /* Light grey border */
+    border-top: 5px solid #3498db; /* Blue border */
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.no-drop {cursor: no-drop;}
+
+.h_bar{
+    overflow:auto;
+    white-space: nowrap;
+}

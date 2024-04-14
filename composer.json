@@ -1,0 +1,7 @@
+{
+    "name": "cham/v1",
+    "require": {
+        "php-mqtt/client": "^1.8",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
